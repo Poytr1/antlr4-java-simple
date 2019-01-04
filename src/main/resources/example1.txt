@@ -1,8 +1,8 @@
 package A;
 
-class A {
+class ABC {
     private int a;
-    public A(int a) {
+    public ABC(int a) {
         this.a = a;
     }
     public int getA() {
